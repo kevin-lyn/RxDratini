@@ -1,0 +1,8 @@
+language: swift
+osx_image: xcode8.3
+script:
+- swift package update
+- xcodebuild test -project RxDratini.xcodeproj -scheme RxDratini -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 7,OS=10.3.1'
+after_success:
+- bash <(curl -s https://codecov.io/bash) -J 'RxDratini'
+
