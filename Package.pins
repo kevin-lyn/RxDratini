@@ -5,13 +5,13 @@
       "package": "Ditto",
       "reason": null,
       "repositoryURL": "https://github.com/kevin0571/Ditto.git",
-      "version": "1.0.2"
+      "version": "1.0.4"
     },
     {
       "package": "Dratini",
       "reason": null,
       "repositoryURL": "https://github.com/kevin0571/Dratini.git",
-      "version": "1.1.0"
+      "version": "1.1.2"
     },
     {
       "package": "RxSwift",
