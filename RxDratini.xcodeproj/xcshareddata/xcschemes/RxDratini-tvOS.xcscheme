@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "764DBD331F4087BF002D4257"
-               BuildableName = "RxDratini-tvOS.framework"
+               BuildableName = "RxDratini.framework"
                BlueprintName = "RxDratini-tvOS"
                ReferencedContainer = "container:RxDratini.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "764DBD3B1F4087BF002D4257"
-               BuildableName = "RxDratini-tvOSTests.xctest"
+               BuildableName = "RxDratini-Tests.xctest"
                BlueprintName = "RxDratini-tvOSTests"
                ReferencedContainer = "container:RxDratini.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "764DBD331F4087BF002D4257"
-            BuildableName = "RxDratini-tvOS.framework"
+            BuildableName = "RxDratini.framework"
             BlueprintName = "RxDratini-tvOS"
             ReferencedContainer = "container:RxDratini.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "764DBD331F4087BF002D4257"
-            BuildableName = "RxDratini-tvOS.framework"
+            BuildableName = "RxDratini.framework"
             BlueprintName = "RxDratini-tvOS"
             ReferencedContainer = "container:RxDratini.xcodeproj">
          </BuildableReference>
@@ -83,7 +83,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "764DBD331F4087BF002D4257"
-            BuildableName = "RxDratini-tvOS.framework"
+            BuildableName = "RxDratini.framework"
             BlueprintName = "RxDratini-tvOS"
             ReferencedContainer = "container:RxDratini.xcodeproj">
          </BuildableReference>
